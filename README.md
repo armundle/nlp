@@ -9,3 +9,4 @@
 - [Hal Daume](https://www.umiacs.umd.edu/~hal/)
 - [Richard Socher](http://www.socher.org/)
 - [Xuezhe Ma](https://www.cs.cmu.edu/~xuezhem)
+- [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
