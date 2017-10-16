@@ -1,5 +1,12 @@
 # NLP resources
 
+# Tasks
+
+## Text Classification
+- `PAPER`[Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)
+- `PAPER`[Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
+- `PAPER`[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+- `PAPER` [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf)
 
 ## People
 - [Christopher Manning](https://nlp.stanford.edu/manning)
