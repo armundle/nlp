@@ -2,10 +2,14 @@
 
 # Tasks
 
+## Sequence Labeling
+- `PAPER` [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/pdf/1603.01354.pdf)
+- `BLOG` [Getting Started In: Sequence Labeling](https://nlpers.blogspot.com/2006/11/getting-started-in-sequence-labeling.html)
+
 ## Text Classification
-- `PAPER`[Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)
-- `PAPER`[Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
-- `PAPER`[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+- `PAPER` [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)
+- `PAPER` [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
+- `PAPER` [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 - `PAPER` [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf)
 
 ## People
