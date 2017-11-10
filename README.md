@@ -5,6 +5,7 @@
 ## Sequence Labeling
 - `PAPER` [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/pdf/1603.01354.pdf)
 - `BLOG` [Getting Started In: Sequence Labeling](https://nlpers.blogspot.com/2006/11/getting-started-in-sequence-labeling.html)
+- `PAPER` [EXPLORING REPRESENTATION METHODS FOR SEQUENCE LABELING](https://openreview.net/pdf?id=BJoBfQ-0b)
 
 ## Text Classification
 - `PAPER` [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)
