@@ -4,8 +4,10 @@
 
 ## Sequence Labeling
 - `PAPER` [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/pdf/1603.01354.pdf)
-- `BLOG` [Getting Started In: Sequence Labeling](https://nlpers.blogspot.com/2006/11/getting-started-in-sequence-labeling.html)
 - `PAPER` [EXPLORING REPRESENTATION METHODS FOR SEQUENCE LABELING (under review at ICLR 2018)](https://openreview.net/pdf?id=BJoBfQ-0b)
+- `BLOG` [Getting Started In: Sequence Labeling](https://nlpers.blogspot.com/2006/11/getting-started-in-sequence-labeling.html)
+- `BLOG` [TensorFlow Tutorial - Analysing Tweet's Sentiment with Character-Level LSTMs](https://charlesashby.github.io/2017/06/05/sentiment-analysis-with-char-lstm/)
+- `BLOG` [Sequence Tagging with Tensorflow](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
 
 ## Text Classification
 - `PAPER` [Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)
@@ -23,3 +25,6 @@
 - [Richard Socher](http://www.socher.org/)
 - [Xuezhe Ma](https://www.cs.cmu.edu/~xuezhem)
 - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
+
+## Misc
+- [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
