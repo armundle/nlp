@@ -29,6 +29,7 @@
 ### Early Stopping
 - `PAPER` [Early Stopping - but when?](http://page.mi.fu-berlin.de/prechelt/Biblio/stop_tricks1997.pdf)
 - `PAPER` [On early stopping in gradient descent learning](http://math.stanford.edu/~yuany/publications/earlystop.pdf)
+- `SO` [How to use early stopping properly for training deep neural network?](https://stats.stackexchange.com/q/231061/6068)
 
 ## People
 - [Christopher Manning](https://nlp.stanford.edu/manning)
