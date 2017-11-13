@@ -49,3 +49,6 @@
 
 # Misc
 - [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
+
+# Reddit posts
+- [Confession as an AI researcher; seeking advice](https://np.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/)
