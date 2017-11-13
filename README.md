@@ -24,6 +24,8 @@
 ## Tips
 - `PAPER` [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - `BLOG` [Strategies for optimizing SGD](http://ruder.io/optimizing-gradient-descent/index.html#additionalstrategiesforoptimizingsgd)
+- `PAPER` [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
+- `PAPER` [Batch Normalization](https://arxiv.org/pdf/1502.03167.pdf)
 
 ## People
 - [Christopher Manning](https://nlp.stanford.edu/manning)
