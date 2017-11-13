@@ -20,6 +20,7 @@
 
 ## Optimization
 - `BLOG` [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent)
+- `BLOG` [Asynchrony Begets Momentum](http://stanford.edu/~imit/tuneyourmomentum/theory/)
 
 ## Early Stopping
 - `PAPER` [Early Stopping - but when?](http://page.mi.fu-berlin.de/prechelt/Biblio/stop_tricks1997.pdf)
