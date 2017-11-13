@@ -21,11 +21,14 @@
 ## Optimization
 - `BLOG` [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent)
 
-## Tips
+## Tips and Techniques
 - `PAPER` [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - `BLOG` [Strategies for optimizing SGD](http://ruder.io/optimizing-gradient-descent/index.html#additionalstrategiesforoptimizingsgd)
 - `PAPER` [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
 - `PAPER` [Batch Normalization](https://arxiv.org/pdf/1502.03167.pdf)
+### Early Stopping
+- `PAPER` [Early Stopping - but when?](http://page.mi.fu-berlin.de/prechelt/Biblio/stop_tricks1997.pdf)
+- `PAPER` [On early stopping in gradient descent learning](http://math.stanford.edu/~yuany/publications/earlystop.pdf)
 
 ## People
 - [Christopher Manning](https://nlp.stanford.edu/manning)
