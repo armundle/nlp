@@ -52,3 +52,7 @@
 
 # Reddit posts
 - [Confession as an AI researcher; seeking advice](https://np.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/)
+
+# Programming Patterns
+- [Patterns for Research in Machine Learning](http://arkitus.com/patterns-for-research-in-machine-learning/)
+- [Principles of Research Code](http://www.theexclusive.org/2012/08/principles-of-research-code.html)
