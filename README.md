@@ -23,6 +23,7 @@
 
 ## Tips
 - `PAPER` [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+- `BLOG` [Strategies for optimizing SGD](http://ruder.io/optimizing-gradient-descent/index.html#additionalstrategiesforoptimizingsgd)
 
 ## People
 - [Christopher Manning](https://nlp.stanford.edu/manning)
