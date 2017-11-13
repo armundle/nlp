@@ -16,6 +16,11 @@
 - `PAPER` [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf)
 - `PAPER` [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1510.03820)
 
+# Techniques
+
+## Optimization
+- `BLOG` [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent)
+
 ## People
 - [Christopher Manning](https://nlp.stanford.edu/manning)
 - [Yann LeCun](http://yann.lecun.com)
@@ -25,6 +30,7 @@
 - [Richard Socher](http://www.socher.org/)
 - [Xuezhe Ma](https://www.cs.cmu.edu/~xuezhem)
 - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
+- [Sebastian Ruder](http://ruder.io)
 
 ## Misc
 - [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
