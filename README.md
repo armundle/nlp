@@ -21,7 +21,7 @@
 ## Optimization
 - `BLOG` [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent)
 
-## Tips and Techniques
+## Tips
 - `PAPER` [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 - `BLOG` [Strategies for optimizing SGD](http://ruder.io/optimizing-gradient-descent/index.html#additionalstrategiesforoptimizingsgd)
 - `PAPER` [Curriculum Learning](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)
