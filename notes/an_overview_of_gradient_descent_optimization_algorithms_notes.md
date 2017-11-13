@@ -43,3 +43,11 @@
 - In input data is sparse, best results using adaptive learning rate methods.
 - No need to tune the learning rate for the adaptive methods, start with the default value.
 - Adam seems to be the best choice.
+
+## Tips and Tricks
+- Shuffle the training date after every epoch
+- Curriculum learning in the cases when solving *progressively* harder problems.
+- A combined or a mixed strategy might be better than a naive one.
+- Batch normalization - normalization for every mini-batch; enable use of higher learning rates, less dependence of parameter initialization; acts as a regularizer, reduces (may eliminate) need for Dropout.
+- Early stopping.
+- Gradient noise - robust to poor initialization; helps with deep and complex networks. May give model more chances to escape and find new local minima.
