@@ -21,6 +21,9 @@
 ## Optimization
 - `BLOG` [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent)
 
+## Tips
+- `PAPER` [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+
 ## People
 - [Christopher Manning](https://nlp.stanford.edu/manning)
 - [Yann LeCun](http://yann.lecun.com)
