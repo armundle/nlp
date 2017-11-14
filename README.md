@@ -46,6 +46,7 @@
 - [Xuezhe Ma](https://www.cs.cmu.edu/~xuezhem)
 - [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
 - [Sebastian Ruder](http://ruder.io)
+- [Kyubyong](https://github.com/Kyubyong/nlp_tasks)
 
 # Misc
 - [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
