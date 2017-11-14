@@ -18,6 +18,7 @@
 
 ## Text Summarization
 - `PAPER` [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/pdf/1509.00685.pdf)
+- `PAPER` [Neural Summarization by Extracting Sentences and Words](https://arxiv.org/pdf/1603.07252.pdf)
 - `TUTORIAL` [A Neural Attention Model for Abstractive Sentence Summarization](http://people.seas.harvard.edu/~srush/emnlp2015_slides.pdf)
 - `BLOG` [Computer, respond to this email.](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
 - `BLOG` [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
