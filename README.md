@@ -27,6 +27,7 @@
 
 ## Optimization
 - `BLOG` [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent)
+  - [`notes`](https://github.com/armundle/nlp/blob/master/notes/an_overview_of_gradient_descent_optimization_algorithms_notes.md)
 - `BLOG` [Asynchrony Begets Momentum](http://stanford.edu/~imit/tuneyourmomentum/theory/)
 
 ## Early Stopping
