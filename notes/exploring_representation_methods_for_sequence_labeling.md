@@ -40,6 +40,27 @@
   - character level representations (utilized using CNNs and highway networks) make better predictions for OOTV and misspellings.
 - CRF layer helps with label dependency.
 
+## Architecture
+- character level representations extract lexical features; keeping the character level input case sensitive
+- word level representations lower cased (that's how GloVe is too)
+- rare words with freq < 5 := `<UNK>`
+- CRF layer uses Viterbi alrogrithm
+- Dropout at every layer
+- SGD with momentum
+- treat characters of whole sentences as a sequence instead of a single word
+- highway layers
+- `?` udpate word embeddings with fine-tune
+- `?` apply dropout to the "fine-tuned" part of word embedding
+
+## Datasets
+ - WSJ-PTB, Accuracy measure.
+ - CoNLL03 NER (BIOES schema), F1 measure.
+ 
+## Observations
+- character level representations with LSTM (size 300) is significantly better and has less spread than CNN
+- pair wise CRF layer has lesser spread
+- world level structures are more vulnerable than character level LSTMS; more prove to overfit
+
  # TODO
  ## Follow up readings
  - [Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging; Reimers and Guervych 2017](https://arxiv.org/pdf/1707.09861)
