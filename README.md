@@ -65,3 +65,8 @@
 # Programming Patterns
 - [Patterns for Research in Machine Learning](http://arkitus.com/patterns-for-research-in-machine-learning/)
 - [Principles of Research Code](http://www.theexclusive.org/2012/08/principles-of-research-code.html)
+
+# Unsorted
+- [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+- [the morning paper](https://blog.acolyer.org/)
+- [t-SNE](https://lvdmaaten.github.io/tsne/)
