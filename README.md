@@ -23,6 +23,10 @@
 - `BLOG` [Computer, respond to this email.](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
 - `BLOG` [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
 
+## Applications (General Deep Learning)
+- `PAPER` [Causal Phenotype Discovery via Deep Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765623/)
+- `PAPER` [Short-term traffic flow forecasting with spatial-temporal correlation in a hybrid deep learning framework](https://arxiv.org/pdf/1612.01022.pdf)
+
 # Techniques
 
 ## Optimization
