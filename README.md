@@ -42,7 +42,9 @@
 - `PAPER` [On early stopping in gradient descent learning](http://math.stanford.edu/~yuany/publications/earlystop.pdf)
 - `SO` [How to use early stopping properly for training deep neural network?](https://stats.stackexchange.com/q/231061/6068)
 
-## Initial Value for Word Embeddings
+## Word embeddings
+- `PAPER` [Don’t count, predict! A systematic comparison of context-counting vs. context-predicting semantic vectors](http://www.aclweb.org/anthology/P14-1023)
+### Initial Value for Word Embeddings
 - `GIT` https://github.com/guillaumegenthial/sequence_tagging/issues/31
 
 ## Tips
